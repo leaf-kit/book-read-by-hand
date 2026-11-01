@@ -1,7 +1,7 @@
 # AI가 요약해줘도 나는 손으로 읽는다
 
 <p style="text-align:center">
-  <img src="images/book-cover.png" alt="AI가 요약해줘도 나는 손으로 읽는다 표지" width="320">
+  <img src="images/book-cover.jpeg" alt="AI가 요약해줘도 나는 손으로 읽는다 표지" width="320">
 </p>
 
 고전 한 줄, 노트 한 장 — 30일 아날로그 독서노트 훈련
